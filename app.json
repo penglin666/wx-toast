@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/test/test"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#4990e2",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle":"white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  
+  "usingComponents":{
+    "toast":"/components/global/toast/toast"
+  }
+}

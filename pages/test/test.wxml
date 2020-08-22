@@ -1,0 +1,4 @@
+<view class="container login">
+  <button catchtap="test">试一下</button>
+  <toast id="toast"></toast>
+</view>
